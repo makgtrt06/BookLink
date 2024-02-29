@@ -19,7 +19,11 @@ abrilfatface2{
   font-size: xx-large;
   font-display: 33;
 }
-
+.image-container {
+  width: 20px; /* Set the width of the container */
+  height: auto; /* Allow the height to adjust proportionally */
+  border: 1px solid black; /* Optional border for visualization */
+}
 body {
   font-family: "Syne", sans-serif;
   color: #0c0c0c;
