@@ -30,6 +30,12 @@ body {
   background-color: #e4dccf;
 }
 
+text {
+  font-family: "Syne", sans-serif;
+  color: #0c0c0c;
+  padding: 10px;
+}
+
 .layout_padding {
   padding-top: 90px;
   padding-bottom: 90px;
